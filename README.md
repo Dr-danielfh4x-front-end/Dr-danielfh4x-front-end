@@ -13,9 +13,9 @@
 
   <a href="https://github.com/Dr-danielfh4x-front-end">
      
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dr-danielfh4x-front-end&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dr-danielfh4x-front-end&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-danielfh4x-front-end&layout=compact&langs_count=6&theme=blue_navy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-danielfh4x-front-end&layout=compact&langs_count=6&theme=great-gatsby"/>
   
 
 <br>
